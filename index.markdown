@@ -10,7 +10,8 @@ layout: default
 (attendance is mandatory).</p>
 
 <p class="hang" markdown="1"><span class="emph">Recitations:</span> {{ site.recitation_time }} 
-(attendance is mandatory).</p>
+(__attendance is mandatory__ - if you don't think you can make it to an 8am recitation, plan your schedule so that
+you can register for a different section of this course).</p>
 
 <p class="hang" markdown="1"><span class="emph">Recitation leader:</span>   {{ site.recitation_instructor_full }} </p>
    
