@@ -8,6 +8,7 @@
 /*
 Color scheme: 
 */
+/*hsl(273, 22%, 90%);*/
 html {
   margin: 0;
   height: 100%;
@@ -92,7 +93,7 @@ nav li {
 }
 nav li a {
   display: block;
-  color: #e6e0eb;
+  color: #ff0000;
   background-color: #41324e;
   text-align: center;
   padding: 0.5em 2em;
