@@ -30,10 +30,11 @@ Post all course related questions to the discussion board. If you have questions
 related to your grading, contact your instructor directly (office hours or email). 
 </p> 
 
+<!--
 <p class="hang" markdown="1"><span class="emph">Tutors:</span>  the tutors are going to be availble starting 
 the second week of classes in room {{site.tutor_location}}; here is their [schedule]( {{ site.tutor_schedule_link }}) (updated with any last minute changes) 
 </p>
-    
+-->    
 
 <p class="hang" markdown="1"><span class="emph">How to get help?</span> 
 Ask questions on discussion forums (Piazza)! Ask questions in recitations and during lectures!
