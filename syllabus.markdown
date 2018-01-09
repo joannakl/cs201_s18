@@ -51,6 +51,19 @@ Grades will be determined using the following scale:
 
 The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option. 
 		
+
+# Absences (excused and unexcused)
+---
+
+I generally do not take attendance. 
+
+__The missed quizzes and recitation activities cannot be made up__. Four lowest scores on quizzes and recitation will be dropped at the end of the 
+semester. This is to account for any excused or unexcused absences. 
+
+The exams can be made up only in case of an excused absence with appropriate documentation. 
+
+If you will miss an exam due to a religious observance, please familiarize yourself with [University Calendar Policy on Religious Holidays](https://goo.gl/e6NHDe) and talk to me well in advance to come up with alternative arrangements. 
+
 # Recitations
 ---
 
