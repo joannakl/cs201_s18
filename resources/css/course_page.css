@@ -62,7 +62,7 @@ h4 {
 }
 /******************************************/
 header {
-  background: #538884;
+  background: #9ac1be;
   padding: 3px 1em;
   margin: 0;
   color: #003d39;
@@ -76,7 +76,7 @@ header h1 {
 }
 /******************************************/
 nav {
-  background: #538884;
+  background: #9ac1be;
   padding: 3px 1em;
   margin: 0;
 }
@@ -89,24 +89,24 @@ nav ul {
 nav li {
   float: left;
   font-weight: bold;
-  border: 1px solid #538884;
+  border: 1px solid #9ac1be;
 }
 nav li a {
   display: block;
-  color: #ff0000;
-  background-color: #41324e;
+  color: #dfeceb;
+  background-color: #365956;
   text-align: center;
   padding: 0.5em 2em;
   text-decoration: none;
 }
 nav li a:hover {
-  color: #41324e;
-  background-color: #e6e0eb;
+  color: #365956;
+  background-color: #dfeceb;
   text-decoration: none;
 }
 /******************************************/
 aside {
-  background: #538884;
+  background: #9ac1be;
   width: 20%;
   float: right;
   padding: 0.25em;
@@ -168,7 +168,7 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #ccc2d6;
+  background-color: #9ac1be;
   border-top: 3px solid white;
   overflow: hidden;
 }
@@ -176,7 +176,7 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #b3b8cc;
+  background-color: #b5e3df;
   border-top: 3px solid white;
   overflow: hidden;
 }
@@ -184,8 +184,8 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #67507c;
-  color: #e6e0eb;
+  background-color: #365956;
+  color: #9ac1be;
   font-weight: bold;
   border-top: 3px solid white;
   overflow: hidden;
@@ -282,7 +282,7 @@ footer {
   clear: both;
   margin: 0;
   padding: 0;
-  background: #538884;
+  background: #9ac1be;
   font-size: 0.8em;
   overflow: hidden;
 }
