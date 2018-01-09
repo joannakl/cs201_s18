@@ -4,8 +4,6 @@
 <div class="column_date">
 
 Class # 2 <br> 
-Thu, Sep. 7 (sec. 3)<br>
-Mon, Sep. 11 (sec. 5)  
 
 
 </div>
@@ -13,9 +11,6 @@ Mon, Sep. 11 (sec. 5)
 <div class="column_materials">
 <p markdown="block">
 
-Lecture 1 continued: stages of software development,
-object oriented concepts, static vs. instance data fields
-and methods, composition, inheritance, `this` and `super` keywords. 
 
 
 </p>
@@ -24,11 +19,7 @@ and methods, composition, inheritance, `this` and `super` keywords.
 <div class="column_assign">
 <p markdown="block">
 
-__Project 1__ (due Sept. 18 at 11:55pm)
 
-- [project specification](hwk/project1.pdf)
-- CSS color names [data file](hwk/color_list.txt) - this is an example of a file that your program should
-accept as a command line argument (keep in mind that your program might be tested with a different file) 
 
 </p>
 </div>
