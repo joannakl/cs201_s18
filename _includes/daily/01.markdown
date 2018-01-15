@@ -18,7 +18,7 @@ You will not be able to complete any labs or participate in the recitations unti
 - Sign up for a Github account, if you do not have one already. If you do have one already, associate your nyu email address with that account (or create an additional account if you do not wish to use your primary account for
 the course).
 
-- Fill out the survey located here: https://goo.gl/forms/km3I3p0r5GHMczad2 
+- Fill out the survey located [__here__](https://goo.gl/forms/km3I3p0r5GHMczad2). 
 
 - By the start of first recitation, you will get an email from Github with an invitation to join the nyu-cs201-s18 organization. Follow the instructions to accept the invitation. Once you have accepted the invitation you will be able to see the other repositories here, including rec1, which you will begin during the first recitation.
 
