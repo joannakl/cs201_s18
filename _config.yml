@@ -32,8 +32,8 @@ recitation_instructor2_name: ""
 instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm, 
 (or you can schedule an appointment if these times do not work for you)" 
 instructor_office_hours_location: "423 CIWW" 
-recitation1_office_hours: "TBD" 
-recitation1_office_hours_location: "TBD" 
+recitation1_office_hours: "Thursdays 9:00 - 11:00 am" 
+recitation1_office_hours_location: "406 CIWW" 
 recitation2_office_hours: "" 
 recitation2_office_hours_location: "" 
 
@@ -51,8 +51,9 @@ midterm_exam_date: "TBD"
 final_exam_date: "TBD"
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
-piazza_site: piazza.com/nyu/spring2018/csci201
+piazza_site: http://piazza.com/nyu/spring2018/csci201
 gradescope_site: "https://gradescope.com/"
+github_site: "https://github.com/nyu-cs201-s18"
 
 book_required: "Computer Systems: A Programmer's Perspective, "
 book_required_author: "Randal E. Bryant and David R. O'Hallaron, "
