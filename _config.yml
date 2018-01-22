@@ -1,5 +1,6 @@
 
 title: CSCI-UA 201 (Computer Systems Organization) 
+short_title: CS 201 
 description: "Course website for CSCI-UA 201 (Computer Systems Organization) course." 
 
 baseurl: "/cs201_s18" # the subpath of your site, e.g. /blog

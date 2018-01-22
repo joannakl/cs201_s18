@@ -1,5 +1,6 @@
 ---
-layout: default 
+layout: default  
+title: Course Essentials
 ---
 
 # Course Essentials
@@ -48,20 +49,10 @@ start getting failing grades because it might be too late by then.
 
 # Course Description
 --- 
-**Data Structures**
+**Computer Systems Organization**
 
-CSCI-UA 102 Prerequisite: Introduction to Computer Science (CSCI-UA 101). <br>
-NOTE: The prerequisite means that you DO NEED TO KNOW AND REMEMBER the material from CSCI-UA 101.<br> 
-Offered in the fall and spring. 4 points.<br>
-Use and design of data structures, which organize information in 
-computer memory. Stacks, queues, linked lists, binary trees: 
-how to implement them in a high-level language, how to analyze their 
-effect on algorithm efficiency, and how to modify them. 
-Programming assignments.<br>
+CSCI-UA 201 Prerequisite: Data Structures (CSCI-UA 102). 4 points. Covers the internal structure of computers, machine (assembly) language programming, and the use of pointers in high-level languages. Topics include the logical design of computers, computer architecture, the internal representation of data, instruction sets, and addressing logic, as well as pointers, structures, and other features of high-level languages that relate to assembly language. Programming assignments are in both assembly language and other languages. <br>
 
-This course assumes that students had at least one semester course in Java programming language. 
-All programming assignments are given in Java and students need to be able to write fairly involved
-programs from the very first project. 
 
 # Important Dates
 --- 
