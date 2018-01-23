@@ -45,6 +45,8 @@ machine and move it around (YES, not a very scientific approach, but it worked f
 
 - If you run into problems with installation or setup of the virtual machine (particularly likely with Windows users) see this [troubleshooting guide](http://cs.nyu.edu/courses/spring16/CSCI-UA.0201-001/resources/vm-troubleshoot.html). 
 
+[WIndows 10 Bios access](https://www.laptopmag.com/articles/access-bios-windows-10) 
+
 If these suggestions do not solve the problem, post a question in Piazza providing as many details as possible (the exact error message, your operating system, versions of the software, what things you have tried, etc.) and we will try to help. 
 
 
