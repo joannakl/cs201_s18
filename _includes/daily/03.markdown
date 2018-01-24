@@ -17,7 +17,7 @@ control flow, printf, functions, scope, header files)
 
 [lecture 2](notes/Lecture02-C_basics.pdf), part 1 
 
-
+  
 
 </p>
 </div>
