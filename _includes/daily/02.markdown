@@ -11,7 +11,8 @@ Rec # 1 <br>
     
 <div class="column_recitation">
 <p markdown="block">
-        
+
+see [recitation 1](https://github.com/nyu-cs201-s18/rec1) repository         
 
 </p>        
 </div>
