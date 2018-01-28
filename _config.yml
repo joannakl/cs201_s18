@@ -27,7 +27,7 @@ recitation_section: "004"
 recitation_time:  "<br>Tuesdays 8:00AM - 9:15AM, CIWW 109<br>"
 recitation_instructor_full: "Chhavi Yadav" 
 recitation_instructor1_name: "Chhavi" 
-recitation_instructor2_name: "" 
+recitation_instructor2_name: "Arnav" 
 
 
 instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm, 
@@ -35,8 +35,8 @@ instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm,
 instructor_office_hours_location: "423 CIWW" 
 recitation1_office_hours: "Thursdays 9:00 - 11:00 am" 
 recitation1_office_hours_location: "406 CIWW" 
-recitation2_office_hours: "" 
-recitation2_office_hours_location: "" 
+recitation2_office_hours: "Wednesdays: 10:00 - 12:00 am" 
+recitation2_office_hours_location: "412 CIWW" 
 
 current_course1_title: "CSCI 102 sec. 1"
 current_course1_link: "https://joannakl.github.io/cs102_s18/"
