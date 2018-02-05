@@ -13,6 +13,8 @@ Class # 3 <br>
 
 Continue with basics of C. 
 
+[lecture 2](notes/Lecture02-C_basics.pdf), slightly more, but not yet finished 
+
 </p>
 </div>
 
