@@ -12,7 +12,7 @@ Class # 5 <br>
 <p markdown="block">
 
 Even more on C: strings in C = null terminated arrays of characters, 
-structures, dynamic memory allocation.   
+structures.   
 
 </p>
 </div>
