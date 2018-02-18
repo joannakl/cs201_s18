@@ -11,7 +11,7 @@ Class # 1 <br>
 <div class="column_materials">
 <p markdown="block">
 
-Introduction: [course overview](https://docs.google.com/a/nyu.edu/presentation/d/e/2PACX-1vR2_c-As5V6RxJ_jCsp5IocrvDwKDJUYsLiN-47YYuOxclFDLeOIwpyujGA20eQOmlvxPo3btbMemns/pub?start=false&loop=false&delayms=3000) and [syllabus]({{ site.url }}/syllabus.html).  
+Introduction: [course overview](https://docs.google.com/presentation/d/1FDBdgx6__VNYBIebKRCKuTfhcC_icDYKXinsQnE36Ic/preview?slide=id.p) and [syllabus]({{ site.url }}/syllabus.html).  
 
 
 

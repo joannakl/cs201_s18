@@ -16,7 +16,7 @@ Dynamic memory allocation.
 
 Data representation: bit vectors, unsigned int, int. 
 
-[slides](https://docs.google.com/presentation/d/e/2PACX-1vQIPYzCTvuQT0pOGvFFoBXYJ-F7jU-1zCMX1-prZUVm0GCpZWJn7VGcHCMRi0Sw7OLREGNTozc8LXrc/pub?start=false&loop=false&delayms=3000)
+[slides](https://docs.google.com/presentation/d/1BpqqURc7MyEsB5l1j7-UHgTpZ9fIEkL_HkiaWreMprY/preview?slide=id.p)
 
 </p>
 </div>

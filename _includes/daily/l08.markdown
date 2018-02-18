@@ -15,7 +15,7 @@ Feb. 14
 
 Data representation: floating point numbers, IEEE 754 encoding 
 
-[slides](https://docs.google.com/a/nyu.edu/presentation/d/e/2PACX-1vQ1jR3p0D8lSlHkJOn5echXhjafRPb4VFT8Cb-kPs3aw10YFn5D4wuD2bUlQZiZkrzGwp7VwdYGhRTw/pub?start=false&loop=false&delayms=3000)
+[slides](https://docs.google.com/presentation/d/1h0W3hDXrmpl1g6VAcyVisWNTMXcdWdv3uKg4AA3XJ7M/preview?slide=id.p)
 
 </p>
 </div>
