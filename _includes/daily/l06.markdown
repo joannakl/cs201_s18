@@ -4,6 +4,7 @@
 <p markdown="block">
 
 Class # 6 <br> 
+Feb. 7 
 
 </p>
 </div>
