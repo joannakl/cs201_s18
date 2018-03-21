@@ -13,7 +13,7 @@ March 21
 <p markdown="block">
 
 
-<img src="https://c1.staticflickr.com/6/5471/11287461455_5bd5cdfd15_b.jpg" width=100px alt="snow day" align="middle"> 
+<img src="https://c1.staticflickr.com/6/5471/11287461455_5bd5cdfd15_b.jpg" width="100px" alt="snow day" align="middle"> 
 
    
 
