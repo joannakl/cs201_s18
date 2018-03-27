@@ -4,8 +4,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Rec # 8 <br>
-March 20
+Rec # 9 <br>
+March 27
 
 </p>          
 </div>
@@ -13,9 +13,10 @@ March 20
 <div class="column_recitation">
 <p markdown="block">
 
-Using GDB to go through machine instructions of programs and access registers.
+Working with assembly. 
 
-rec7 repositories available in GitHub class organization
+recitation 8 repositories available on GitHub
+
 
 
 </p>        
