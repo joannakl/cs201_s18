@@ -63,7 +63,7 @@ CSCI-UA 201 Prerequisite: Data Structures (CSCI-UA 102). 4 points. Covers the in
 <p class="hang" markdown="1"> **Final Exam:**
 (date and time subject to change by CAS, check the dates posted by the department 
 [here]( {{site.final_exams_link}} ) ) <br> 
-{{ site.final_exam_date }} 
+__{{ site.final_exam_date }}__ 
 
 
 <br>
