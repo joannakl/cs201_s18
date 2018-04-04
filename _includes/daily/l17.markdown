@@ -3,7 +3,7 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 16 <br> 
+Class # 16 <br>
 March 26
 
 </p>
@@ -12,19 +12,15 @@ March 26
 <div class="column_materials">
 <p markdown="block">
 
-Function calls - what really has to happen? 
+Function calls - what really has to happen?
 
-[slides](https://docs.google.com/presentation/d/19-kzHdHamXs75Dtnq1gf41eC_hvJVQVvgDMQ0t83pW0/present?token=AC4w5VhUkArt1An6R5Xw73pANN7lfdNL5w%3A1521651043297&includes_info_params=1#slide=id.p) 
+[slides](https://docs.google.com/presentation/d/19-kzHdHamXs75Dtnq1gf41eC_hvJVQVvgDMQ0t83pW0/present?token=AC4w5VhUkArt1An6R5Xw73pANN7lfdNL5w%3A1521651043297&includes_info_params=1#slide=id.p)
 
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
-
-Project 2, due March 30.
-
-Repositories available in GitHub class organization. 
 
 
 </p>
