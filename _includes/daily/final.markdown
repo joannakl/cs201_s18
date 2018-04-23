@@ -3,17 +3,16 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 13 <br>
-March 7  
+
 
 </p>
 </div>
 
 <div class="column_materials">
 <p markdown="block">
-
-Midterm exam.
-
+<br><br>
+May 9, __12:00-1:50pm__, __109 CIWW__, Final Exam
+<br><br>
 
 </p>
 </div>
